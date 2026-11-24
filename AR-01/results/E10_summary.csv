@@ -1,0 +1,7 @@
+architecture,trials,train_successes,validation_successes,avg_total_epochs,avg_neuron_sample_work,avg_train_mse,avg_validation_mse,avg_neurons,avg_accepted_growth,avg_rejected_growth
+Fixed2,30,22,0,12000,144000,0.0267443,0.670848,2,0,0
+Fixed3,30,28,2,11340,204120,0.00616786,0.653711,3,0,0
+Fixed4,30,30,2,11600,278400,0.000288271,0.652902,4,0,0
+AdaptiveBaseline,30,23,1,11810,161220,0.0245599,0.670365,2.03333,0.0333333,2.66667
+AdaptiveConsistency,30,23,1,11810,161220,0.0245599,0.670365,2.03333,0.0333333,2.66667
+AdaptivePersistence,30,23,1,11810,161220,0.0245599,0.670365,2.03333,0.0333333,2.66667

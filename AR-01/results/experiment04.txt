@@ -1,0 +1,263 @@
+=== AUSMERA AR-01 / EXPERIMENT 04 ===
+Candidate usefulness test
+Trials: 30
+
+Trial 1/30
+[PROBE] baseline=0.249996 candidate=0.249992 -> REJECT
+[PROBE] baseline=0.250003 candidate=0.250000 -> REJECT
+[PROBE] baseline=0.250008 candidate=0.250009 -> REJECT
+[PROBE] baseline=0.250007 candidate=0.250012 -> REJECT
+[PROBE] baseline=0.250001 candidate=0.250002 -> REJECT
+[PROBE] baseline=0.249995 candidate=0.249993 -> REJECT
+[PROBE] baseline=0.249942 candidate=0.249933 -> REJECT
+[PROBE] baseline=0.249314 candidate=0.249275 -> REJECT
+[PROBE] baseline=0.096155 candidate=0.096131 -> REJECT
+[PROBE] baseline=0.095606 candidate=0.095582 -> REJECT
+[PROBE] baseline=0.095256 candidate=0.095230 -> REJECT
+[PROBE] baseline=0.095016 candidate=0.094990 -> REJECT
+[PROBE] baseline=0.094840 candidate=0.094813 -> REJECT
+
+Trial 2/30
+[PROBE] baseline=0.249922 candidate=0.249634 -> ACCEPT
+
+Trial 3/30
+[PROBE] baseline=0.250016 candidate=0.249273 -> ACCEPT
+
+Trial 4/30
+[PROBE] baseline=0.127334 candidate=0.065149 -> ACCEPT
+
+Trial 5/30
+
+Trial 6/30
+[PROBE] baseline=0.250018 candidate=0.248363 -> ACCEPT
+
+Trial 7/30
+[PROBE] baseline=0.094903 candidate=0.094717 -> REJECT
+
+Trial 8/30
+[PROBE] baseline=0.249417 candidate=0.249499 -> REJECT
+
+Trial 9/30
+
+Trial 10/30
+[PROBE] baseline=0.249969 candidate=0.250147 -> REJECT
+[PROBE] baseline=0.249981 candidate=0.250162 -> REJECT
+[PROBE] baseline=0.249997 candidate=0.250162 -> REJECT
+[PROBE] baseline=0.250002 candidate=0.250152 -> REJECT
+[PROBE] baseline=0.249985 candidate=0.250109 -> REJECT
+[PROBE] baseline=0.249904 candidate=0.249994 -> REJECT
+[PROBE] baseline=0.249511 candidate=0.249481 -> REJECT
+[PROBE] baseline=0.095687 candidate=0.096090 -> REJECT
+[PROBE] baseline=0.095225 candidate=0.095626 -> REJECT
+[PROBE] baseline=0.094938 candidate=0.095337 -> REJECT
+[PROBE] baseline=0.094740 candidate=0.095142 -> REJECT
+[PROBE] baseline=0.094600 candidate=0.094996 -> REJECT
+[PROBE] baseline=0.094489 candidate=0.094892 -> REJECT
+[PROBE] baseline=0.094403 candidate=0.094805 -> REJECT
+
+Trial 11/30
+[PROBE] baseline=0.249702 candidate=0.249494 -> ACCEPT
+
+Trial 12/30
+
+Trial 13/30
+[PROBE] baseline=0.249979 candidate=0.249913 -> REJECT
+[PROBE] baseline=0.250007 candidate=0.249981 -> REJECT
+[PROBE] baseline=0.250007 candidate=0.249984 -> REJECT
+[PROBE] baseline=0.249986 candidate=0.249945 -> REJECT
+[PROBE] baseline=0.249958 candidate=0.249938 -> REJECT
+[PROBE] baseline=0.249869 candidate=0.249838 -> REJECT
+[PROBE] baseline=0.249165 candidate=0.249181 -> REJECT
+[PROBE] baseline=0.095959 candidate=0.094386 -> ACCEPT
+
+Trial 14/30
+
+Trial 15/30
+[PROBE] baseline=0.250030 candidate=0.250151 -> REJECT
+[PROBE] baseline=0.250007 candidate=0.250124 -> REJECT
+[PROBE] baseline=0.250015 candidate=0.250129 -> REJECT
+[PROBE] baseline=0.249993 candidate=0.250087 -> REJECT
+[PROBE] baseline=0.249982 candidate=0.250072 -> REJECT
+[PROBE] baseline=0.249580 candidate=0.249617 -> REJECT
+[PROBE] baseline=0.096105 candidate=0.096196 -> REJECT
+[PROBE] baseline=0.095575 candidate=0.095667 -> REJECT
+[PROBE] baseline=0.095233 candidate=0.095322 -> REJECT
+[PROBE] baseline=0.094997 candidate=0.095086 -> REJECT
+[PROBE] baseline=0.094828 candidate=0.094920 -> REJECT
+[PROBE] baseline=0.094693 candidate=0.094782 -> REJECT
+[PROBE] baseline=0.094590 candidate=0.094679 -> REJECT
+
+Trial 16/30
+[PROBE] baseline=0.250020 candidate=0.250047 -> REJECT
+[PROBE] baseline=0.250015 candidate=0.250035 -> REJECT
+[PROBE] baseline=0.249994 candidate=0.250009 -> REJECT
+[PROBE] baseline=0.249979 candidate=0.249999 -> REJECT
+[PROBE] baseline=0.249942 candidate=0.249971 -> REJECT
+[PROBE] baseline=0.249719 candidate=0.249778 -> REJECT
+[PROBE] baseline=0.095745 candidate=0.093338 -> ACCEPT
+
+Trial 17/30
+[PROBE] baseline=0.249983 candidate=0.250091 -> REJECT
+[PROBE] baseline=0.249993 candidate=0.250089 -> REJECT
+[PROBE] baseline=0.250004 candidate=0.250089 -> REJECT
+[PROBE] baseline=0.249982 candidate=0.250041 -> REJECT
+[PROBE] baseline=0.249642 candidate=0.249618 -> REJECT
+[PROBE] baseline=0.096093 candidate=0.095513 -> ACCEPT
+
+Trial 18/30
+[PROBE] baseline=0.248985 candidate=0.248989 -> REJECT
+[PROBE] baseline=0.095690 candidate=0.095567 -> REJECT
+[PROBE] baseline=0.095228 candidate=0.095110 -> REJECT
+[PROBE] baseline=0.094939 candidate=0.094824 -> REJECT
+[PROBE] baseline=0.094740 candidate=0.094620 -> REJECT
+[PROBE] baseline=0.094596 candidate=0.094475 -> REJECT
+[PROBE] baseline=0.094491 candidate=0.094379 -> REJECT
+[PROBE] baseline=0.094402 candidate=0.094280 -> REJECT
+[PROBE] baseline=0.094333 candidate=0.094206 -> REJECT
+[PROBE] baseline=0.094279 candidate=0.094158 -> REJECT
+[PROBE] baseline=0.094230 candidate=0.094107 -> REJECT
+[PROBE] baseline=0.094190 candidate=0.094070 -> REJECT
+[PROBE] baseline=0.094156 candidate=0.094032 -> REJECT
+[PROBE] baseline=0.094127 candidate=0.094006 -> REJECT
+
+Trial 19/30
+[PROBE] baseline=0.250009 candidate=0.249994 -> REJECT
+[PROBE] baseline=0.250006 candidate=0.249974 -> REJECT
+[PROBE] baseline=0.250008 candidate=0.249977 -> REJECT
+[PROBE] baseline=0.250008 candidate=0.249984 -> REJECT
+[PROBE] baseline=0.249991 candidate=0.250001 -> REJECT
+[PROBE] baseline=0.249860 candidate=0.249837 -> REJECT
+[PROBE] baseline=0.249004 candidate=0.248991 -> REJECT
+[PROBE] baseline=0.096066 candidate=0.095956 -> REJECT
+[PROBE] baseline=0.095551 candidate=0.095437 -> REJECT
+[PROBE] baseline=0.095218 candidate=0.095102 -> REJECT
+[PROBE] baseline=0.094988 candidate=0.094873 -> REJECT
+[PROBE] baseline=0.094818 candidate=0.094706 -> REJECT
+[PROBE] baseline=0.094690 candidate=0.094577 -> REJECT
+
+Trial 20/30
+
+Trial 21/30
+
+Trial 22/30
+[PROBE] baseline=0.249974 candidate=0.250051 -> REJECT
+[PROBE] baseline=0.250033 candidate=0.250119 -> REJECT
+[PROBE] baseline=0.250001 candidate=0.250073 -> REJECT
+[PROBE] baseline=0.250003 candidate=0.250076 -> REJECT
+[PROBE] baseline=0.250009 candidate=0.250089 -> REJECT
+[PROBE] baseline=0.250004 candidate=0.250081 -> REJECT
+[PROBE] baseline=0.249991 candidate=0.250067 -> REJECT
+[PROBE] baseline=0.249973 candidate=0.250056 -> REJECT
+[PROBE] baseline=0.249866 candidate=0.249949 -> REJECT
+[PROBE] baseline=0.248976 candidate=0.249098 -> REJECT
+[PROBE] baseline=0.095991 candidate=0.094614 -> ACCEPT
+
+Trial 23/30
+[PROBE] baseline=0.095022 candidate=0.094487 -> ACCEPT
+
+Trial 24/30
+[PROBE] baseline=0.250002 candidate=0.250022 -> REJECT
+[PROBE] baseline=0.250013 candidate=0.250038 -> REJECT
+[PROBE] baseline=0.250009 candidate=0.250037 -> REJECT
+[PROBE] baseline=0.250012 candidate=0.250038 -> REJECT
+[PROBE] baseline=0.249999 candidate=0.250015 -> REJECT
+[PROBE] baseline=0.250001 candidate=0.250022 -> REJECT
+[PROBE] baseline=0.249982 candidate=0.249994 -> REJECT
+[PROBE] baseline=0.249949 candidate=0.249969 -> REJECT
+[PROBE] baseline=0.249771 candidate=0.249788 -> REJECT
+[PROBE] baseline=0.095974 candidate=0.095815 -> REJECT
+[PROBE] baseline=0.095493 candidate=0.095324 -> REJECT
+[PROBE] baseline=0.095179 candidate=0.095012 -> REJECT
+
+Trial 25/30
+[PROBE] baseline=0.250033 candidate=0.250108 -> REJECT
+[PROBE] baseline=0.250024 candidate=0.250121 -> REJECT
+[PROBE] baseline=0.250002 candidate=0.250071 -> REJECT
+[PROBE] baseline=0.249997 candidate=0.250069 -> REJECT
+[PROBE] baseline=0.249984 candidate=0.250048 -> REJECT
+[PROBE] baseline=0.249963 candidate=0.250016 -> REJECT
+[PROBE] baseline=0.249906 candidate=0.249944 -> REJECT
+[PROBE] baseline=0.249615 candidate=0.249581 -> REJECT
+[PROBE] baseline=0.095643 candidate=0.094731 -> ACCEPT
+
+Trial 26/30
+[PROBE] baseline=0.095258 candidate=0.095120 -> REJECT
+[PROBE] baseline=0.094677 candidate=0.094544 -> REJECT
+[PROBE] baseline=0.094069 candidate=0.093931 -> REJECT
+
+Trial 27/30
+
+Trial 28/30
+[PROBE] baseline=0.249929 candidate=0.249776 -> REJECT
+[PROBE] baseline=0.249937 candidate=0.249814 -> REJECT
+[PROBE] baseline=0.249967 candidate=0.249862 -> REJECT
+[PROBE] baseline=0.249978 candidate=0.249904 -> REJECT
+[PROBE] baseline=0.249980 candidate=0.249931 -> REJECT
+[PROBE] baseline=0.249911 candidate=0.249888 -> REJECT
+[PROBE] baseline=0.096052 candidate=0.092085 -> ACCEPT
+
+Trial 29/30
+[PROBE] baseline=0.249994 candidate=0.249896 -> REJECT
+[PROBE] baseline=0.250001 candidate=0.249915 -> REJECT
+[PROBE] baseline=0.250001 candidate=0.249922 -> REJECT
+[PROBE] baseline=0.250015 candidate=0.249946 -> REJECT
+[PROBE] baseline=0.250000 candidate=0.249924 -> REJECT
+[PROBE] baseline=0.250000 candidate=0.249930 -> REJECT
+[PROBE] baseline=0.250042 candidate=0.249995 -> REJECT
+[PROBE] baseline=0.250000 candidate=0.249927 -> REJECT
+[PROBE] baseline=0.250001 candidate=0.249932 -> REJECT
+[PROBE] baseline=0.250008 candidate=0.249946 -> REJECT
+[PROBE] baseline=0.250008 candidate=0.249950 -> REJECT
+[PROBE] baseline=0.250010 candidate=0.249957 -> REJECT
+[PROBE] baseline=0.249993 candidate=0.249931 -> REJECT
+[PROBE] baseline=0.249983 candidate=0.249918 -> REJECT
+[PROBE] baseline=0.249961 candidate=0.249900 -> REJECT
+[PROBE] baseline=0.249894 candidate=0.249839 -> REJECT
+[PROBE] baseline=0.249582 candidate=0.249537 -> REJECT
+
+Trial 30/30
+[PROBE] baseline=0.250007 candidate=0.250029 -> REJECT
+[PROBE] baseline=0.249991 candidate=0.250015 -> REJECT
+[PROBE] baseline=0.249929 candidate=0.249949 -> REJECT
+[PROBE] baseline=0.249430 candidate=0.249420 -> REJECT
+[PROBE] baseline=0.095966 candidate=0.095852 -> REJECT
+[PROBE] baseline=0.095487 candidate=0.095372 -> REJECT
+[PROBE] baseline=0.095173 candidate=0.095055 -> REJECT
+[PROBE] baseline=0.094953 candidate=0.094835 -> REJECT
+[PROBE] baseline=0.094792 candidate=0.094676 -> REJECT
+[PROBE] baseline=0.094667 candidate=0.094546 -> REJECT
+[PROBE] baseline=0.094570 candidate=0.094450 -> REJECT
+[PROBE] baseline=0.094489 candidate=0.094370 -> REJECT
+[PROBE] baseline=0.094422 candidate=0.094306 -> REJECT
+
+--- Fixed 2 neurons ---
+Success: 12/30
+Avg main epochs: 9950.000000
+Avg probe epochs: 0.000000
+Avg final MSE: 0.067041
+Avg neurons: 2.000000
+
+--- Fixed 3 neurons ---
+Success: 26/30
+Avg main epochs: 4680.000000
+Avg probe epochs: 0.000000
+Avg final MSE: 0.022911
+Avg neurons: 3.000000
+
+--- Fixed 4 neurons ---
+Success: 28/30
+Avg main epochs: 3810.000000
+Avg probe epochs: 0.000000
+Avg final MSE: 0.013245
+Avg neurons: 4.000000
+
+--- Adaptive candidate evaluation ---
+Success: 21/30
+Avg main epochs: 8010.000000
+Avg probe epochs: 840.000000
+Avg final MSE: 0.037918
+Avg neurons: 2.400000
+Accepted growth: 0.400000
+Rejected growth: 5.200000
+
+=== END EXPERIMENT 04 ===
