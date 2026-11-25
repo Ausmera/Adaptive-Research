@@ -1,28 +1,24 @@
 # Ausmera Adaptive Research
 
-Adaptive Research is the research direction of Ausmera focused on
-adaptive artificial systems and self-organizing neural architectures.
+Adaptive Research is a research field in Ausmera focused on adaptive artificial systems and self-organizing neural architectures.
 
 ## Projects
 
-### AR-01 — Structural Adaptation
-Research into dynamic neural network growth, structural adaptation,
-and candidate selection.
+### AR-01 – Structural Adaptation
+Reaserching growth of dynamic neural networks, structural adjustments, and candidate selection.
 
-Status: Initial experimental stage completed.
-The project is retained as a research baseline and experimental archive.
+Status: Initial trial phase completed.
+Project is kept only for the purpose of research.
 
-### AR-02 — Structural Memory
-Research into persistent neural structures, sequential learning,
-reuse of previously acquired structures, associative memory,
-and transfer of experience.
+### AR-02 – Structural Memory 
+Reasearches persistent neural systems, learning in sequence, reuse of acquired systems, associative memory, and experience transfer.
 
-Status: Research design.
+Status: Research layout. 
 
-## Research principles
+## Research principles 
 
-- Reproducible experiments
-- Explicit hypotheses
+- Repeatable experiments
+- Clearly stated hypotheses
 - Controlled comparisons
-- Preservation of negative results
-- No claims beyond experimental evidence
+- Preserving negative findings
+- No endorsement beyond experimentation
